@@ -1,0 +1,5 @@
+.vscode
+.idea
+*.pdf
+tmp
+wip.md
