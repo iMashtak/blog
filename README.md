@@ -6,6 +6,7 @@
 
 ## Посты
 
+- [AI Gateways](./2026/07-25-ai-gateways.md)
 - [Шаблонизация конфигурационных файлов](./2026/07-18-templates.md)
 - [AI Coding](./2026/07-16-ai-sdd.md)
 - [Docs as Code не работает](./2026/07-13-docs-as-code.md)
