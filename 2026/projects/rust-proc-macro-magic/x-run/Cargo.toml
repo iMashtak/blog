@@ -1,0 +1,7 @@
+[package]
+name = "x-run"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+x-macro = { version = "0.1.0", path = "../x-macro" }

@@ -6,6 +6,7 @@
 
 ## Посты
 
+- [Rust Procedural Macros Magic](./2026/07-29-proc-macro-magic.md)
 - [AI Gateways](./2026/07-25-ai-gateways.md)
 - [Шаблонизация конфигурационных файлов](./2026/07-18-templates.md)
 - [AI Coding](./2026/07-16-ai-sdd.md)

@@ -1,0 +1,10 @@
+[package]
+name = "x-macro-lib"
+edition.workspace = true
+version.workspace = true
+
+[dependencies]
+syn = { version = "2", features = ["full", "extra-traits"] }
+quote = "1"
+proc-macro2 = "1"
+chumsky = { version = "0.13", features = ["pratt"] }

@@ -1,0 +1,10 @@
+[package]
+name = "x-macro"
+edition.workspace = true
+version.workspace = true
+
+[lib]
+proc-macro = true
+
+[dependencies]
+x-macro-lib = { version = "0.1.0", path = "../x-macro-lib" }
