@@ -6,6 +6,7 @@
 
 ## Посты
 
+- [Культура разработки](./2026/08-12-culture.md)
 - [Rust SSE State](./2026/08-11-rust-sse.md)
 - [Rust Procedural Macros Magic](./2026/07-29-proc-macro-magic.md)
 - [AI Gateways](./2026/07-25-ai-gateways.md)
