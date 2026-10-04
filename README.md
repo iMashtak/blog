@@ -6,6 +6,7 @@
 
 ## Посты
 
+- [Высказывание об AI в разработке](./2026/10-04-ai-in-dev.md)
 - [Культура разработки](./2026/08-12-culture.md)
 - [Rust SSE State](./2026/08-11-rust-sse.md)
 - [Rust Procedural Macros Magic](./2026/07-29-proc-macro-magic.md)
